@@ -3,7 +3,7 @@
 
 ## Bar Chart 
 
-![iframe](mozaik-ext-charts/BarChart.png)
+![iframe](https://github.com/manv6/mozaik-ext-charts/blob/master/BarChart.png)
 
 ### Bar Chart parameters
 
@@ -25,7 +25,7 @@ key        | required | description
 
 ## Line Chart 
 
-![iframe](mozaik-ext-charts/LineChart.png)
+![iframe](https://github.com/manv6/mozaik-ext-charts/blob/master/LineChart.png)
 
 ### Line Chart parameters
 
