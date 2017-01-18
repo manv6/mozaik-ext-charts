@@ -1,5 +1,5 @@
-import Highcharts from './Highcharts.jsx';
+// import ChartWidget from './ChartWidget.jsx';
+import CustomLineChartWidget from './LineChartWidget.jsx';
+import CustomBarChartWidget from './BarChartWidget.jsx';
 
-export default {
-    Highcharts
-};
+export default { CustomBarChartWidget: CustomBarChartWidget, CustomLineChartWidget: CustomLineChartWidget};
