@@ -3,7 +3,7 @@
 
 ## Bar Chart 
 
-![iframe](https://raw.githubusercontent.com/tomav/mozaik-ext-iframe/master/preview/iframe.iframe.png)
+![iframe](mozaik-ext-charts/BarChart.png)
 
 ### Bar Chart parameters
 
@@ -24,6 +24,8 @@ key        | required | description
 ```
 
 ## Line Chart 
+
+![iframe](mozaik-ext-charts/LineChart.png)
 
 ### Line Chart parameters
 
