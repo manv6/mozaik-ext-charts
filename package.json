@@ -2,25 +2,25 @@
   "_args": [
     [
       {
-        "raw": "mozaik-ext-charts@1.0.5",
+        "raw": "mozaik-ext-charts@1.0.6",
         "scope": null,
         "escapedName": "mozaik-ext-charts",
         "name": "mozaik-ext-charts",
-        "rawSpec": "1.0.5",
-        "spec": "1.0.5",
+        "rawSpec": "1.0.6",
+        "spec": "1.0.6",
         "type": "version"
       },
       "/Users/manolisvlastos/ideaProjects/mozaik-demo"
     ]
   ],
-  "_from": "mozaik-ext-charts@1.0.5",
-  "_id": "mozaik-ext-charts@1.0.5",
+  "_from": "mozaik-ext-charts@1.0.6",
+  "_id": "mozaik-ext-charts@1.0.6",
   "_inCache": true,
   "_location": "/mozaik-ext-charts",
   "_nodeVersion": "5.7.0",
   "_npmOperationalInternal": {
     "host": "packages-16-east.internal.npmjs.com",
-    "tmp": "tmp/mozaik-ext-charts-1.0.5.tgz_1462798678136_0.6681106192991138"
+    "tmp": "tmp/mozaik-ext-charts-1.0.6.tgz_1462798678136_0.6681106192991138"
   },
   "_npmUser": {
     "name": "manv6",
@@ -29,21 +29,21 @@
   "_npmVersion": "3.6.0",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "mozaik-ext-charts@1.0.5",
+    "raw": "mozaik-ext-charts@1.0.6",
     "scope": null,
     "escapedName": "mozaik-ext-charts",
     "name": "mozaik-ext-charts",
-    "rawSpec": "1.0.5",
-    "spec": "1.0.5",
+    "rawSpec": "1.0.6",
+    "spec": "1.0.6",
     "type": "version"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/mozaik-ext-charts/-/mozaik-ext-charts-1.0.5.tgz",
+  "_resolved": "https://registry.npmjs.org/mozaik-ext-charts/-/mozaik-ext-charts-1.0.6.tgz",
   "_shasum": "203a12263c9f5d06dc8eff68987f95832221512d",
   "_shrinkwrap": null,
-  "_spec": "mozaik-ext-charts@1.0.5",
+  "_spec": "mozaik-ext-charts@1.0.6",
   "_where": "/Users/manolisvlastos/ideaProjects/mozaik-demo",
   "author": {
     "name": "Manolis Vlastos"
@@ -73,7 +73,7 @@
   "directories": {},
   "dist": {
     "shasum": "203a12263c9f5d06dc8eff68987f95832221512d",
-    "tarball": "https://registry.npmjs.org/mozaik-ext-charts/-/mozaik-ext-charts-1.0.5.tgz"
+    "tarball": "https://registry.npmjs.org/mozaik-ext-charts/-/mozaik-ext-charts-1.0.6.tgz"
   },
   "engines": {
     "node": "0.12.x"
@@ -105,14 +105,5 @@
     "url": "git+https://github.com/manv6/mozaik-ext-charts.git"
   },
   "scripts": {},
-  "version": "1.0.5",
-  "warnings": [
-    {
-      "code": "ENOTSUP",
-      "required": {
-        "node": "0.12.x"
-      },
-      "pkgid": "mozaik-ext-charts@1.0.5"
-    }
-  ]
+  "version": "1.0.6"
 }
