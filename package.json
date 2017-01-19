@@ -71,6 +71,7 @@
   "description": "charts widget for Mozaik dashboard",
   "devDependencies": {},
   "directories": {},
+
   "dist": {
     "shasum": "203a12263c9f5d06dc8eff68987f95832221512d",
     "tarball": "https://registry.npmjs.org/mozaik-ext-charts/-/mozaik-ext-charts-1.0.6.tgz"
