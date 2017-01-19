@@ -2,10 +2,10 @@
   "_args": [
     [
       {
-        "raw": "mozaik-ext-highcharts@1.0.5",
+        "raw": "mozaik-ext-charts@1.0.5",
         "scope": null,
-        "escapedName": "mozaik-ext-highcharts",
-        "name": "mozaik-ext-highcharts",
+        "escapedName": "mozaik-ext-charts",
+        "name": "mozaik-ext-charts",
         "rawSpec": "1.0.5",
         "spec": "1.0.5",
         "type": "version"
@@ -13,14 +13,14 @@
       "/Users/manolisvlastos/ideaProjects/mozaik-demo"
     ]
   ],
-  "_from": "mozaik-ext-highcharts@1.0.5",
-  "_id": "mozaik-ext-highcharts@1.0.5",
+  "_from": "mozaik-ext-charts@1.0.5",
+  "_id": "mozaik-ext-charts@1.0.5",
   "_inCache": true,
-  "_location": "/mozaik-ext-highcharts",
+  "_location": "/mozaik-ext-charts",
   "_nodeVersion": "5.7.0",
   "_npmOperationalInternal": {
     "host": "packages-16-east.internal.npmjs.com",
-    "tmp": "tmp/mozaik-ext-highcharts-1.0.5.tgz_1462798678136_0.6681106192991138"
+    "tmp": "tmp/mozaik-ext-charts-1.0.5.tgz_1462798678136_0.6681106192991138"
   },
   "_npmUser": {
     "name": "manv6",
@@ -29,10 +29,10 @@
   "_npmVersion": "3.6.0",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "mozaik-ext-highcharts@1.0.5",
+    "raw": "mozaik-ext-charts@1.0.5",
     "scope": null,
-    "escapedName": "mozaik-ext-highcharts",
-    "name": "mozaik-ext-highcharts",
+    "escapedName": "mozaik-ext-charts",
+    "name": "mozaik-ext-charts",
     "rawSpec": "1.0.5",
     "spec": "1.0.5",
     "type": "version"
@@ -40,10 +40,10 @@
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/mozaik-ext-highcharts/-/mozaik-ext-highcharts-1.0.5.tgz",
+  "_resolved": "https://registry.npmjs.org/mozaik-ext-charts/-/mozaik-ext-charts-1.0.5.tgz",
   "_shasum": "203a12263c9f5d06dc8eff68987f95832221512d",
   "_shrinkwrap": null,
-  "_spec": "mozaik-ext-highcharts@1.0.5",
+  "_spec": "mozaik-ext-charts@1.0.5",
   "_where": "/Users/manolisvlastos/ideaProjects/mozaik-demo",
   "author": {
     "name": "Manolis Vlastos"
@@ -61,28 +61,27 @@
     ]
   },
   "bugs": {
-    "url": "https://github.com/manv6/mozaik-ext-highcharts/issues"
+    "url": "https://github.com/manv6/mozaik-ext-charts/issues"
   },
   "dependencies": {
     "react": "^0.13.3",
-    "react-classset": "0.0.2",
-    "react-highcharts": "11.5.0"
+    "react-classset": "0.0.2"
   },
-  "description": "highcharts widget for Mozaik dashboard",
+  "description": "charts widget for Mozaik dashboard",
   "devDependencies": {},
   "directories": {},
   "dist": {
     "shasum": "203a12263c9f5d06dc8eff68987f95832221512d",
-    "tarball": "https://registry.npmjs.org/mozaik-ext-highcharts/-/mozaik-ext-highcharts-1.0.5.tgz"
+    "tarball": "https://registry.npmjs.org/mozaik-ext-charts/-/mozaik-ext-charts-1.0.5.tgz"
   },
   "engines": {
     "node": "0.12.x"
   },
   "gitHead": "aa8dc60a4592aa24e972f8d1517e935b58ff14b7",
-  "homepage": "https://github.com/manv6/mozaik-ext-highcharts#readme",
+  "homepage": "https://github.com/manv6/mozaik-ext-charts#readme",
   "keywords": [
     "mozaik",
-    "highcharts",
+    "charts",
     "dashboard",
     "newrelic"
   ],
@@ -94,7 +93,7 @@
       "email": "evlastos@gmail.com"
     }
   ],
-  "name": "mozaik-ext-highcharts",
+  "name": "mozaik-ext-charts",
   "optionalDependencies": {},
   "peerDependencies": {
     "mozaik": "1.x"
@@ -102,7 +101,7 @@
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/manv6/mozaik-ext-highcharts.git"
+    "url": "git+https://github.com/manv6/mozaik-ext-charts.git"
   },
   "scripts": {},
   "version": "1.0.5",
@@ -112,7 +111,7 @@
       "required": {
         "node": "0.12.x"
       },
-      "pkgid": "mozaik-ext-highcharts@1.0.5"
+      "pkgid": "mozaik-ext-charts@1.0.5"
     }
   ]
 }
